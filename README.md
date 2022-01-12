@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [x] Changing default tip values
-- [x] Calculate bill based on party size
+- [x] Calculating bill based on party size
 
 ## Video Walkthrough
 
