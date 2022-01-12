@@ -18,7 +18,14 @@ class SettingsViewController: UIViewController {
         
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        tip1TextField.text = String(Int(defaults.double(forKey: "tip1") * 100))
+        tip2TextField.text = String(Int(defaults.double(forKey: "tip2") * 100))
+        tip3TextField.text = String(Int(defaults.double(forKey: "tip3") * 100))
 
+        tip1TextField.keyboardType = .numberPad
+        tip2TextField.keyboardType = .numberPad
+        tip3TextField.keyboardType = .numberPad
         // Do any additional setup after loading the view.
     }
     
