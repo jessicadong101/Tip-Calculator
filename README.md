@@ -4,7 +4,7 @@
 
 Submitted by: **Jessica Dong**
 
-Time spent: 3.5 hours spent in total
+Time spent: 6 hours spent in total
 
 ## User Stories
 
@@ -29,13 +29,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-https://imgur.com/a/utlDmgM.gif
+http://g.recordit.co/2Whka4KJCN.gif
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Took some time to gt used to Swift syntax.
+Took some time to get used to Swift syntax.
 
 ## License
 
